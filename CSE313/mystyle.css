@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+}
+
+p{
+    color:rgb(188, 188, 218);
+    display: inline-block;
+    margin: .5em;
+}
+.footer{
+    display: block;
+}
